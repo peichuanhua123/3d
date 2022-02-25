@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.baca5391.css",
-    "main.js": "./static/js/main.66a22a5b.js",
+    "main.css": "./static/css/main.9c5b0e8d.css",
+    "main.js": "./static/js/main.b1e75b45.js",
     "static/js/27.757b9be6.chunk.js": "./static/js/27.757b9be6.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.6de45f86f4a8a91fa836.fbx",
     "static/media/plant_cell.glb": "./static/media/plant_cell.d63210fb24baaf713401.glb",
     "static/media/earth.glb": "./static/media/earth.90ca2aaa1f1069bba4e4.glb",
+    "static/media/video.mp4": "./static/media/video.aedaaec61369285de862.mp4",
     "static/media/link.fbx": "./static/media/link.bb2cfa2fd292dda09d77.fbx",
     "static/media/animal_cell.glb": "./static/media/animal_cell.2dc1761e4868fbd19b20.glb",
     "static/media/land.glb": "./static/media/land.c4cc5ed7502f866ee6dc.glb",
     "static/media/bingdwendwen.glb": "./static/media/bingdwendwen.bd7d37ead8bb47ccaa79.glb",
     "static/media/tiger.gltf": "./static/media/tiger.67f1e8fe58b1c021f2e1.gltf",
     "static/media/flag.glb": "./static/media/flag.73c81d66494359ddbc6e.glb",
+    "static/media/Miku.glb": "./static/media/Miku.bafc0aafec53b6d24e8a.glb",
     "static/media/xuerongrong.glb": "./static/media/xuerongrong.2de949bd2eb58f3f9516.glb",
     "static/media/sky.jpg": "./static/media/sky.3ad39969f4e069359246.jpg",
     "static/media/text.fbx": "./static/media/text.a6b8eb3b3fe823772af7.fbx",
@@ -29,6 +31,7 @@
     "static/media/Head_02_Bump_2k.jpg": "./static/media/Head_02_Bump_2k.55f08b605177a05c88c9.jpg",
     "static/media/Eye_Blue2_1k.jpg": "./static/media/Eye_Blue2_1k.4414b548c7e8eb320f4f.jpg",
     "static/media/lunar.png": "./static/media/lunar.b13356df437baf87cdd8.png",
+    "static/media/heart.glb": "./static/media/heart.d6fb3895b74938715330.glb",
     "static/media/panoramic.png": "./static/media/panoramic.46d7872a91f80882ce8c.png",
     "static/media/car.png": "./static/media/car.9437664c90ec6b0449e7.png",
     "static/media/comic.png": "./static/media/comic.308f642c016e943b82f4.png",
@@ -39,6 +42,7 @@
     "static/media/Eye_Bump2_1k.jpg": "./static/media/Eye_Bump2_1k.63261e58684e227e20de.jpg",
     "static/media/olympic.png": "./static/media/olympic.968f90259a7b0d8bbe22.png",
     "static/media/segmengfault.png": "./static/media/segmengfault.01f6cdf5b24e4c2e20d7.png",
+    "static/media/banner.png": "./static/media/banner.986018684d2cd0b3e107.png",
     "static/media/normalMap.png": "./static/media/normalMap.7706710b833084c7b855.png",
     "static/media/meta.png": "./static/media/meta.94916780ae2a9883646c.png",
     "static/media/layer_4.png": "./static/media/layer_4.8e80f53b7d70d55ef035.png",
@@ -64,7 +68,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.baca5391.css",
-    "static/js/main.66a22a5b.js"
+    "static/css/main.9c5b0e8d.css",
+    "static/js/main.b1e75b45.js"
   ]
 }
