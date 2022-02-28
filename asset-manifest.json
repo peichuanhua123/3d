@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9c5b0e8d.css",
-    "main.js": "./static/js/main.b1e75b45.js",
+    "main.css": "./static/css/main.a0591a5c.css",
+    "main.js": "./static/js/main.eea69aad.js",
     "static/js/27.757b9be6.chunk.js": "./static/js/27.757b9be6.chunk.js",
     "static/media/car.gltf": "./static/media/car.cdedaa4bcfcdc4c86965.gltf",
     "static/media/city.fbx": "./static/media/city.6de45f86f4a8a91fa836.fbx",
@@ -21,6 +21,7 @@
     "static/media/Head_02_Diffuse_2k.jpg": "./static/media/Head_02_Diffuse_2k.330c7026d77f1c974363.jpg",
     "static/media/zelda.png": "./static/media/zelda.0ea4daeafb76967584bd.png",
     "static/media/bg.jpg": "./static/media/bg.4440667a0dec85976329.jpg",
+    "static/media/logo.glb": "./static/media/logo.d0ce5d3c50d7caedb0dc.glb",
     "static/media/Head_02.ctm": "./static/media/Head_02.6c65d8e11c1d36d3d9d3.ctm",
     "static/media/background.png": "./static/media/background.85cf3f86dfe81edc5a15.png",
     "static/media/Head_02_Gloss_2k.jpg": "./static/media/Head_02_Gloss_2k.be3dc25af3ab3516d2b2.jpg",
@@ -68,7 +69,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.9c5b0e8d.css",
-    "static/js/main.b1e75b45.js"
+    "static/css/main.a0591a5c.css",
+    "static/js/main.eea69aad.js"
   ]
 }
